@@ -160,7 +160,7 @@ jupyter notebook python-analysis/GDP.ipynb
 ## 👤 Author
 
 **Name:** Sarthak Choubey
-**GitHub:** [[your-github-profile]  ](https://github.com/sarthak20244)
+**GitHub:** (https://github.com/sarthak20244)
 **Email:**  [sarthakchoubey2019@gmail.com](mailto:sarthakchoubey2019@gmail.com)
 
 
