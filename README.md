@@ -1,4 +1,5 @@
-![Capture7_PhotoGrid](https://github.com/user-attachments/assets/e357399b-1697-4417-bddc-e22174ba1f51) # 📊 Macroeconomic Indicator Forecasting Project
+![Capture7_PhotoGrid](https://github.com/user-attachments/assets/e357399b-1697-4417-bddc-e22174ba1f51) 
+# 📊 Macroeconomic Indicator Forecasting Project
 
 ## Description
 
