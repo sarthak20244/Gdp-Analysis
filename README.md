@@ -1,4 +1,4 @@
-# 📊 Macroeconomic Indicator Forecasting Project
+![Capture7_PhotoGrid](https://github.com/user-attachments/assets/e357399b-1697-4417-bddc-e22174ba1f51)# 📊 Macroeconomic Indicator Forecasting Project
 
 ## Description
 
@@ -95,6 +95,17 @@ Intercept: -16394826.55
 | 2027-28 | 2133          | 38346.71         | ₹ 32,291,594             |
 
 ---
+![Capture_PhotoGrid](https://github.com/user-attachments/assets/a6c081f5-a798-47bd-8412-dfef4482ade9)
+![Capture1_PhotoGrid](https://github.com/user-attachments/assets/85e650cc-bbd8-415b-a915-f83a5095a8a1)
+![Capture2_PhotoGrid](https://github.com/user-attachments/assets/2a608c50-f3df-452c-b1f8-1d6bfeb61473)
+![Capture3_PhotoGrid](https://github.com/user-attachments/assets/5578379d-3c14-4212-b835-d91fe1429a04)
+![Capture4_PhotoGrid](https://github.com/user-attachments/assets/f60d73fd-3c77-414a-85c6-a978bb071803)
+![Capture5_PhotoGrid](https://github.com/user-attachments/assets/bcd3881b-59f4-4ec7-af38-c35ff6ea2315)
+![Capture6_PhotoGrid](https://github.com/user-attachments/assets/367e6f75-292d-4fe3-8487-707927444575)
+![Capture7_PhotoGrid](https://github.com/user-attachments/assets/4b325dfe-5ac0-4105-a7b1-e80872f44de0)
+![Capture8_PhotoGrid](https://github.com/user-attachments/assets/df67032b-c397-43d3-b1a3-dbc551917218)
+
+
 
 ## Power BI Dashboard Insights
 
@@ -127,6 +138,7 @@ Intercept: -16394826.55
 | **Std Dev** | ₹ 21,14,736   | ₹ 13,92,110   |
 
 ---
+![GDP Forecasting_page-0001](https://github.com/user-attachments/assets/953f608b-7520-4da8-a4be-25fde7064f37)
 
 ##  How to Run
 
@@ -147,6 +159,11 @@ jupyter notebook python-analysis/GDP.ipynb
 
 ## 👤 Author
 
-**Name:** Aadya Store  
-**GitHub:** [your-github-profile]  
-**Email:** [your-email@example.com]
+**Name:** Sarthak Choubey
+**GitHub:** [[your-github-profile]  ](https://github.com/sarthak20244)
+**Email:**  [sarthakchoubey2019@gmail.com](mailto:sarthakchoubey2019@gmail.com)
+
+
+---
+
+This project is licensed for **Study and Research Use Only**.
