@@ -121,11 +121,11 @@ Intercept: -16394826.55
 
 ### 📌 Dashboard Visuals
 
-1.  **GDP & GVA Over Time**
+1.  **Per Capita Income by Year**
 2.  **Forex Reserves vs Trade Balance**
-3.  **Per Capita NNI (Tree Map + Bar)**
-4.  **Electricity and Energy Generation**
-5.  **Forecasted GDP (Line Chart 2023–2027)**
+3.  **Trade Balance by Category**
+4.  **Gdp by Year**
+5.  **Year on Year groth v/s Per Capita Income**
 
 ---
 
