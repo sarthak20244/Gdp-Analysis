@@ -1,6 +1,6 @@
 # 📊 Macroeconomic Indicator Forecasting Project
 
-## 📝 Description
+## Description
 
 This project presents a comprehensive analysis of India’s **macroeconomic indicators** from 2010 to 2023, and builds a **forecasting model for GDP up to 2027**. It integrates real-world datasets, performs statistical modeling in Python, and visualizes trends through an interactive **Power BI dashboard**.
 
@@ -8,7 +8,7 @@ The goal is to demonstrate a full-cycle economic analysis pipeline with **Python
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Consolidate and clean macroeconomic datasets from multiple years and sources
 - Predict GDP using **Energy Generation** and **Industrial Production Index**
@@ -17,7 +17,7 @@ The goal is to demonstrate a full-cycle economic analysis pipeline with **Python
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool / Library                          | Purpose                                         |
 |----------------------------------------|--------------------------------------------------|
@@ -31,7 +31,7 @@ The goal is to demonstrate a full-cycle economic analysis pipeline with **Python
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 | Folder/File                            | Description |
 |----------------------------------------|-------------|
@@ -42,41 +42,25 @@ The goal is to demonstrate a full-cycle economic analysis pipeline with **Python
 | `sql-analysis/full_macro_data.csv`     | Unified CSV dataset used in SQL and Power BI   |
 | `sql-files/forecast_db_full_macro_data.sql` | SQL script for table creation and inserts |
 | `sql-files/forecast_db_routines.sql`   | SQL routines, views, and utility procedures     |
+| `images/`                              | Exported charts, dashboard screenshots, visuals |
 | `README.md`                            | Project documentation (this file)              |
 
 ---
 
-## 🔁 Workflow
+## Workflow
 
 ```
-📥 Raw CSVs (2010–2023)
+Raw CSVs (2010–2023)
     ⬇
-🧼 Python (Cleaning + Normalizing with pandas & numpy)
+Python (Cleaning + Normalizing with pandas & numpy)
     ⬇
-📈 Linear Regression Model (GDP ~ Energy + Industry)
+Linear Regression Model (GDP ~ Energy + Industry)
     ⬇
-📤 Export Cleaned Data to CSV + SQL
+Export Cleaned Data to CSV + SQL
     ⬇
-📊 Power BI Dashboard (KPIs, YoY Charts, Forecasts)
+Power BI Dashboard (KPIs, YoY Charts, Forecasts)
 ```
-
----
-
-## 🧪 Python Libraries Used
-
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-```
-
----
-
-## 🔍 Modeling & Forecasting
+## Modeling & Forecasting
 
 ### ✅ Model: Multiple Linear Regression
 **Features Used:**
@@ -112,9 +96,9 @@ Intercept: -16394826.55
 
 ---
 
-## 📊 Power BI Dashboard Insights
+## Power BI Dashboard Insights
 
-### 🧭 KPIs
+### KPIs
 
 | KPI                     | Value               |
 |-------------------------|---------------------|
@@ -125,15 +109,15 @@ Intercept: -16394826.55
 
 ### 📌 Dashboard Visuals
 
-1. 📈 **GDP & GVA Over Time**
-2. 📊 **Forex Reserves vs Trade Balance**
-3. 🧩 **Per Capita NNI (Tree Map + Bar)**
-4. 🔌 **Electricity and Energy Generation**
-5. 🔮 **Forecasted GDP (Line Chart 2023–2027)**
+1.  **GDP & GVA Over Time**
+2.  **Forex Reserves vs Trade Balance**
+3.  **Per Capita NNI (Tree Map + Bar)**
+4.  **Electricity and Energy Generation**
+5.  **Forecasted GDP (Line Chart 2023–2027)**
 
 ---
 
-## 📦 Import/Export Trends
+##  Import/Export Trends
 
 | Metric      | Import (₹ Cr) | Export (₹ Cr) |
 |-------------|---------------|---------------|
@@ -144,7 +128,7 @@ Intercept: -16394826.55
 
 ---
 
-## ✅ How to Run
+##  How to Run
 
 ### 1. Run Python Notebook
 ```bash
