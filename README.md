@@ -17,6 +17,9 @@ The goal is to demonstrate a full-cycle economic analysis pipeline with **Python
 - Forecast India's GDP through **2027** based on real indicators
 
 ---
+## Dataset Source
+All macroeconomic datasets used in this project have been sourced from the official Indian government open data portal:data.gov.in
+
 
 ## Tech Stack
 
